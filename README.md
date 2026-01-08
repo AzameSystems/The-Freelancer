@@ -1,2 +1,2 @@
 # The-Freelancer
-A Way to Make Money in Freelance
+A System to make money in Freelance in anti-fragile way
